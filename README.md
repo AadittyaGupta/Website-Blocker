@@ -7,3 +7,9 @@ When you open a website like `facebook.com`, your system looks up its IP address
 
 This project modifies that file to **redirect websites to your own computer (127.0.0.1)** — making the websites completely unreachable.
 
+## Features:
+- Block a single website
+- Block multiple websites from a `.txt` file
+- View all currently blocked websites
+- Unblock a specific website
+- Python CLI Tool
